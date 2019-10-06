@@ -4,12 +4,12 @@
  * github : https://github.com/eyunzhu/vatfs
  * blog   : http://eyunzhu.com
 */
-console.log('%c欢迎使用 %c影视全搜索 http://v.eyunzhu.com ','','color:#ff8400;');
-console.group('忆云竹');
-	console.log('忆云竹 %c技术教程,资源分享 http://eyunzhu.com','color:#ff8400');
-	console.log('小淘券 %c淘宝内部优惠券 http://tb.eyunzhu.com','color:#ff8400');
-	console.log('影视全搜索 %c全网影视检索，你要的这都有 http://v.eyunzhu.com','color:#ff8400');
-console.groupEnd('忆云竹');
+console.log('%c欢迎使用 %c影视全搜索 http://hxkan.club ','','color:#ff8400;');
+console.group('寒汐');
+	console.log('忆云竹 %c技术教程,资源分享 http://hxkan.club','color:#ff8400');
+	console.log('小淘券 %c淘宝内部优惠券 http://www.323296.vip/mall/?sign=kDTZ','color:#ff8400');
+	console.log('影视全搜索 %c全网影视检索，你要的这都有 http://hxkan.club','color:#ff8400');
+console.groupEnd('寒汐');
 
 console.group('更多资源');
 	console.log('关注微信公众号：小白资源分享');
