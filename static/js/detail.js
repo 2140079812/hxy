@@ -32,9 +32,9 @@ function getServerConfig(){
 			$("#marquee").append(serverConfig.marquee);
 		},
 		error:function(){
-			$("#messageHint").append('<a  href="https://github.com/eyunzhu/vatfs" style="color: red;">Server Error!</a>&emsp;');
-			$("#messageHint").append('<a  href="http://v.eyunzhu.com">官网</a>&emsp;');
-			$("#messageHint").append('<a  href="http://eyunzhu.com">联系作者</a>&emsp;&emsp;');
+			$("#messageHint").append('<a  href="https://github.com/2140079812/hxy" style="color: red;">Server Error!</a>&emsp;');
+			$("#messageHint").append('<a  href="http://hxkan.club">官网</a>&emsp;');
+			$("#messageHint").append('<a  href="http://hxkan.club">联系作者</a>&emsp;&emsp;');
 		}
 	});
 }
